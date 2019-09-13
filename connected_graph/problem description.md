@@ -1,10 +1,11 @@
 # Connected_Graph
 
 *2019.9.12* 
-from interview of Deep Force
 
-There is a map of several cities, the city connected to the city by road, but some of the cities won't be connected to the other cities.
-Please write an function to return an **boolean** to show if you can arrive all the cities on the map no matter where you are.
+from the interview of Deep Force
+
+There is a map of several cities, the city will be connected to the city by road, but some of the cities won't be connected to the other cities.
+Please write a function to return a **boolean** to show if you can arrive all the cities on the map no matter where you are.
 
 Example:
 
