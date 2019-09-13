@@ -6,4 +6,4 @@ There is a map of several cities, the city connected to the city by road, but so
 Please write an function to return an **boolean** to show if you can arrive all the cities on the map no matter where you are.
 
 Example:
-![image][https://github.com/due32101/Interview_test/blob/master/connected_graph/images/example_1.png]
+![image](https://github.com/due32101/Interview_test/blob/master/connected_graph/images/example_1.png)
