@@ -11,7 +11,7 @@ Example:
 
 In Figure(a), A, B, C, D are connected to each other, but E,F aren't connected to other cities, so in this case, you should return **False**; In Figure(b), A, B, C, D, E, F are connected to each other, so you should return **True**
 
-The input data will be an matix, the matrix of Figure(a) is shown as
+The input data will be an matix, the matrix of Figure(a) is shown as:
 ```
 [[1,1,1,0,0,0],
  [1,1,0,1,0,0],
@@ -20,4 +20,16 @@ The input data will be an matix, the matrix of Figure(a) is shown as
  [0,0,0,0,1,1],
  [0,0,0,0,1,1]]
 ```
+The matrix of Figure(b) is shown as
+```
+[[1,1,1,0,0,0],
+ [1,1,0,1,0,0],
+ [1,0,1,0,1,0],
+ [0,1,0,1,0,0],
+ [0,0,1,0,1,1],
+ [0,0,0,0,1,1]]
+```
 
+The test case is contain 6 graphs:
+
+[!image](https://github.com/due32101/Interview_test/blob/master/connected_graph/images/connect_test.png)
