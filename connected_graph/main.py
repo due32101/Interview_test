@@ -46,7 +46,7 @@ def check_connect(graph):
             break
     return connect
 
-#load other test
+#load test data
 test = np.load('test.npy')
 for t in test:
     print(check_connect(t))
