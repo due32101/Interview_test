@@ -9,6 +9,7 @@ There is two list, A and B, the length of A is shorter than B, **please find if 
 Please return a **boolean**
 
 Example:
+
 (1)
 ```
 A = [-2, 1, 3]
