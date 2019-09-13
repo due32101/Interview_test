@@ -30,7 +30,7 @@ def check_connect(graph):
         city = [k]
         #initailize start city i
         i = 0
-        #check if city connect other city
+        #check if city is connected to the other city
         while(i < len(city)):
             c = city[i] #pick the city in list
             connect_city = graph_pd.loc[graph_pd[c] == 1, c] #pick the connected city
