@@ -29,7 +29,7 @@ The matrix of Figure(b) is shown as
  [0,0,1,0,1,1],
  [0,0,0,0,1,1]]
 ```
-
+The columns and rows are A, B, C, D, E, F
 
 
 ※The test case contain 6 graphs:
