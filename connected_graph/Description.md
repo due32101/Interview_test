@@ -32,4 +32,4 @@ The matrix of Figure(b) is shown as
 
 The test case is contain 6 graphs:
 
-[!image](https://github.com/due32101/Interview_test/blob/master/connected_graph/images/connect_test.png)
+![image](https://github.com/due32101/Interview_test/blob/master/connected_graph/images/connect_test.png)
