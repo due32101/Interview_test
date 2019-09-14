@@ -13,7 +13,7 @@ Example:
 
 In Figure(a), A, B, C, D are connected to each other, but E,F aren't connected to other cities, so in this case, you should return **False**; In Figure(b), A, B, C, D, E, F are connected to each other, so you should return **True**
 
-The input data will be an matix, the matrix of Figure(a) is shown as:
+The input data will be an matrix, the matrix of Figure(a) is shown as:
 ```
 [[1,1,1,0,0,0],
  [1,1,0,1,0,0],
