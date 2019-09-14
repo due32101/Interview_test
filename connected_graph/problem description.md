@@ -34,6 +34,6 @@ The matrix of Figure(b) is shown as
 The columns and rows are A, B, C, D, E, F
 
 
-※The test case contain 6 graphs:
+※The test cases contain 6 graphs:
 
 ![image](https://github.com/due32101/Interview_test/blob/master/connected_graph/images/connect_test.png)
